@@ -66,4 +66,4 @@ Requires Python 3 (standard library only — the WebSocket server is implemented
 
 ## Intended use
 
-This is a training and demonstration platform, meant for local use in a classroom or self-study setting — not a certified, full-scale simulator equivalent to commercial systems such as Kongsberg or Wärtsilä. It is well suited to teaching operating procedures, fault recognition, and STCW-style competency assessment in a lightweight, self-contained environment.
+This is a training and demonstration platform, meant for local use in a classroom or self-study setting — not a certified, full-scale simulator equivalent to commercial systems. It is well suited to teaching operating procedures, fault recognition, and STCW-style competency assessment in a lightweight, self-contained environment.
