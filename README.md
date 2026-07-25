@@ -2,7 +2,7 @@
 
 ## What this is
 
-ERS-01 is a browser-based engine room simulator for maritime engineering training. It reproduces the core systems of a ship's engine room — main engine, shaft line, generators, switchboard, and auxiliary machinery — as an interactive model that trainees and instructors can operate, observe, and troubleshoot in real time, entirely on a local machine.
+ERS-V.1.0 is a browser-based engine room simulator for maritime engineering training. It reproduces the core systems of a ship's engine room — main engine, shaft line, generators, switchboard, and auxiliary machinery — as an interactive model that trainees and instructors can operate, observe, and troubleshoot in real time, entirely on a local machine.
 
 It is built around STCW-style training: an instructor can run scenarios that introduce faults or abnormal conditions, watch how a trainee responds, and review the session afterward.
 
