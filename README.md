@@ -1,4 +1,4 @@
-# ERS-01 — Engine Room Simulator
+# ERS-V.1.0 — Engine Room Simulator
 
 ## What this is
 
